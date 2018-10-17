@@ -18,8 +18,10 @@ int main()
 	}
 	for(int j=0;j<i;j++)
 	{
-		cout <<c[j];
-	    cout <<endl;
+	if (c[j] < 18)
+	{
+		cout <<c[j]<<endl;
+	}
 	}
 	return 0;
 }
