@@ -14,7 +14,7 @@ int main()
 		i++;
 		a.push_back(hi);
 		b.push_back(we);
-    c.push_back(tu);
+                c.push_back(tu);
 	}
 	for(int j=0;j<i;j++)
 	{
