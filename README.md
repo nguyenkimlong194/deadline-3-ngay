@@ -21,4 +21,5 @@ int main()
 		cout <<c[j];
 	    cout <<endl;
 	}
+	return 0;
 }
